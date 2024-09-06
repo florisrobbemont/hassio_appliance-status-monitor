@@ -70,7 +70,7 @@ blueprint:
       selector:
         number:
           min: 1.0
-          max: 100.0
+          max: 500.0
           unit_of_measurement: W
           mode: slider
           step: 1.0
@@ -86,7 +86,7 @@ blueprint:
       selector:
         number:
           min: 1.0
-          max: 100.0
+          max: 500.0
           unit_of_measurement: W
           mode: slider
           step: 1.0
